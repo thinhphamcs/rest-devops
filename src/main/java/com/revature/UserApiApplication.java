@@ -9,5 +9,9 @@ public class UserApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UserApiApplication.class, args);
 	}
+	
+	/**
+	 * This is a test to check Sonar Cloud quality gate testing
+	 */
 
 }
